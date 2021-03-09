@@ -1,5 +1,5 @@
 # Overzicht lesmateriaal en oefenopdrachten
-_**Leerlijn Frontend**_
+_**Leerlijn Frontend 2021/02**_
 
 ### GIT Workshops
 * **Voorbereiding**: maak een GitHub gebruikersnaam aan
