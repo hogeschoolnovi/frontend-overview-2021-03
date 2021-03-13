@@ -1,10 +1,10 @@
 # Overzicht lesmateriaal en oefenopdrachten
-_**Leerlijn Frontend 2021/02**_
+_**Leerlijn Frontend 2021/03**_
 
 ### GIT Workshops
 * **Voorbereiding**: maak een GitHub gebruikersnaam aan
 * **Bekijken**:
-    * `[GIT] Workshop` (_Binnekort beschikbaar_)
+    * `[GIT] Workshop` ([video](https://web.microsoftstream.com/video/cf4b42b5-890a-487c-8b3e-b2549d5a29f2) en [slides](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/GIT/%5BGIT%5D%20Workshop%20deel%201.pdf))
     * `[GIT] Workshop deel 2` (_Binnekort beschikbaar_)
   
 ## HTML & CSS
