@@ -37,15 +37,15 @@ _**Leerlijn Frontend 2021/03**_
     * Oefenen met pseudo-elementen en transities, bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-grid-transition-base)
 
 
-> ---
+> []
 > **Extra oefenmateriaal Flexbox en CSS Grid**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-html-css-extra-exercise-base) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/HTML%20&%20CSS/frontend-html-css-extra-exercises-uitwerkingen.zip).
-> ---
+> []
 
 ### Les 5 - Functionel Ontwerpen
 * **Voorbereiding**: lees hoofdstuk 12 op EdHub
 * **Voorbereiding opdrachten**: n.v.t.
 * **Bekijken**:
-    * `[HTML & CSS] Les 5 - Functioneel ontwerpen` (_Binnekort beschikbaar_)
+    * `[HTML & CSS] Les 5 - Functioneel ontwerpen` (_Binnenkort beschikbaar_)
 * **Lesopdrachten**:
     * Geen code dit keer, we denken een applicatie uit met input van de klas
 
@@ -54,19 +54,29 @@ _**Leerlijn Frontend 2021/03**_
 ### Les 1 - Javascript, de basis
 * **Voorbereiding**: lees hoofdstukken 1 t/m 2 op EdHub
 * **Voorbereiding opdrachten**:
-    * Maak opdracht 2.9 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-exersizes-edhub-1) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
+    * Maak opdracht 2.5 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-variables-and-math-operators) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
+    * Maak opdracht 2.9 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-if-else-switch-statements) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
 * **Bekijken**:
-    * `[JAVASCRIPT] Les 1 - The basics` (_Binnekort beschikbaar_)
-* **Lesopdrachten**: (_Binnekort beschikbaar_)
+    * `[JAVASCRIPT] Les 1 - De basics` (_Binnenkort beschikbaar_)
+* **Lesopdrachten**: (_Binnenkort beschikbaar_)
 
-### Les 2 - Scope, functies en objecten
-* **Voorbereiding**: lees hoofdstukken 3 t/m 4 op EdHub
+### Les 2 - Arrays, objecten en loops
+* **Voorbereiding**: lees hoofdstuk 3
 * **Voorbereiding opdrachten**:
-    * Maak opdracht 3.6 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-edhub-functions) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
-    * Maak opdracht 4.6 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-edhub-objects) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
+    * Maak opdracht 3.3 op EdHub. Op GitHub vind je het [base project]() (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
+    * Maak opdracht 3.6 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-edhub-objects) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
 * **Bekijken**:
-    * `[JAVASCRIPT] Les 2 - Scope, functies en objecten` (_Binnekort beschikbaar_).
-* **Lesopdrachten**: (_Binnekort beschikbaar_)
+    * `[JAVASCRIPT] Les 2 - Arrays, objecten en loops` (_Binnenkort beschikbaar_).
+* **Lesopdrachten**: (_Binnenkort beschikbaar_)
+
+### Les 3 - Functies en methoden
+* **Voorbereiding**: lees hoofdstuk 4 en 5
+* **Voorbereiding opdrachten**:
+    * Maak opdracht 4.6 op EdHub. Op GitHub vind je het [base project]() (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
+    * Maak opdracht 5.5 op EdHub. Op GitHub vind je het [base project]() (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
+* **Bekijken**:
+    * `[JAVASCRIPT] Les 3 - Functies en methoden` (_Binnenkort beschikbaar_).
+* **Lesopdrachten**: (_Binnenkort beschikbaar_)
 
 > **Extra oefenmateriaal functies**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
 
