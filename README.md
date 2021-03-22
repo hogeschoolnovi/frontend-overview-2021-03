@@ -81,8 +81,9 @@ _**Leerlijn Frontend 2021/03**_
     * `[JAVASCRIPT] Les 3 - Functies en methoden` (_Binnenkort beschikbaar_).
 * **Lesopdrachten**: (_Binnenkort beschikbaar_)
 
+
   <br/>
-  
+
 > **📙 Extra oefenmateriaal functies:** bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
   
     <br/>
