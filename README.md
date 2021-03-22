@@ -37,9 +37,9 @@ _**Leerlijn Frontend 2021/03**_
     * Oefenen met pseudo-elementen en transities, bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-grid-transition-base)
 
 
-> //
+> ---
 > **Extra oefenmateriaal Flexbox en CSS Grid**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-html-css-extra-exercise-base) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/HTML%20&%20CSS/frontend-html-css-extra-exercises-uitwerkingen.zip).
-> //
+> ---
 
 ### Les 5 - Functionel Ontwerpen
 * **Voorbereiding**: lees hoofdstuk 12 op EdHub
@@ -48,10 +48,6 @@ _**Leerlijn Frontend 2021/03**_
     * `[HTML & CSS] Les 5 - Functioneel ontwerpen` (_Binnekort beschikbaar_)
 * **Lesopdrachten**:
     * Geen code dit keer, we denken een applicatie uit met input van de klas
-
->
-> **Afsluitende opdracht HTML & CSS**: (_Binnekort beschikbaar_)
->
 
 ## JavaScript
 
