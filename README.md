@@ -38,7 +38,7 @@ _**Leerlijn Frontend 2021/03**_
 
 
 <br/>
-#### > **Extra oefenmateriaal Flexbox en CSS Grid**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-html-css-extra-exercise-base) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/HTML%20&%20CSS/frontend-html-css-extra-exercises-uitwerkingen.zip).
+> #### **Extra oefenmateriaal Flexbox en CSS Grid**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-html-css-extra-exercise-base) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/HTML%20&%20CSS/frontend-html-css-extra-exercises-uitwerkingen.zip).
 <br/>
 
 ### Les 5 - Functionel Ontwerpen
