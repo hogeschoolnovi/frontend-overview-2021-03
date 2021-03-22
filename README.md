@@ -75,7 +75,8 @@ _**Leerlijn Frontend 2021/03**_
     * Maak opdracht 3.6 op EdHub (zelfde project als hierboven).
 * **Bekijken**:
     * `[JAVASCRIPT] Les 2 - Arrays, objecten en loops` (_Binnenkort beschikbaar_).
-* **Lesopdrachten**: (_Binnenkort beschikbaar_)
+* **Lesopdrachten**:
+   * Oefenen met for-loops. Heel. veel. loops. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-loops).
 
 ### Les 3 - Functies en methoden
 * **Voorbereiding**: lees hoofdstuk 4 en 5
@@ -94,18 +95,16 @@ _**Leerlijn Frontend 2021/03**_
 >
 
 <br />
-    
-> **Extra oefenmateriaal arrays en string- en math objecten**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-objects-string-array-date) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
+
 
 ## Overzicht Inlevermomenten (vrijblijvend)
 * `[Feedback] - HTML Lasagne opdracht (les 1)` op maandag 8 maart 23:59
 * `[Peer-review] - Selectors en Flexbox opdracht (les 2)` op maandag 15 maart 23:59
 * `[Peer-review] - CSS Grid opdracht (les 3)` op maandag 22 maart 23:59
-* `[Feedback] - Van ontwerp naar Website (overkoepelende cursus-opdracht)` op maandag 29 maart 23:59
 
 * `[VERPLICHT] - Ideefase eindopdracht` op _datum_volgt_
 
-* `[Peer-review] - JavaScript loops opdracht (les 1)` op dinsdag 6 april 23:59
+* `[Feedback] - JavaScript loops opdracht (les 1)` op dinsdag 6 april 23:59
 * `[Peer-review] - JavaScript functies opdracht (les 2)` op maandag 12 april 23:59
 * `[Peer-review] - JavaScript galgje opdracht (les 3)` op maandag 19 april 23:59
 * `-- Tech It Easy opdracht (les 4 + 5) -- ` geen inlevermoment
