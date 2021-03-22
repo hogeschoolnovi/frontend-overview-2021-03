@@ -85,11 +85,13 @@ _**Leerlijn Frontend 2021/03**_
 * **Lesopdrachten**: (_Binnenkort beschikbaar_)
 
 
-  <br/>
+<br/>
 
-> **📙 Extra oefenmateriaal functies:** bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
-  
-    <br/>
+> **📙 Extra oefenmateriaal functies**
+> Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
+>
+
+<br />
     
 > **Extra oefenmateriaal arrays en string- en math objecten**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-objects-string-array-date) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
 
