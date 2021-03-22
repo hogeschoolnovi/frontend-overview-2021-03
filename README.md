@@ -35,11 +35,13 @@ _**Leerlijn Frontend 2021/03**_
 * **Lesopdrachten**: 
     * Oefenen met CSS Grid. Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-css-grid).
     * Oefenen met pseudo-elementen en transities, bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-grid-transition-base)
-
-> **Extra oefenmateriaal Flexbox en CSS Grid** 
+  
+  
+> **📙 Extra oefenmateriaal Flexbox en CSS Grid** 
 > 
 > Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-html-css-extra-exercise-base) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/HTML%20&%20CSS/frontend-html-css-extra-exercises-uitwerkingen.zip).
-
+  
+  
 ### Les 5 - Functionel Ontwerpen
 * **Voorbereiding**: lees hoofdstuk 12 op EdHub
 * **Voorbereiding opdrachten**: n.v.t.
@@ -77,7 +79,7 @@ _**Leerlijn Frontend 2021/03**_
     * `[JAVASCRIPT] Les 3 - Functies en methoden` (_Binnenkort beschikbaar_).
 * **Lesopdrachten**: (_Binnenkort beschikbaar_)
 
-> **Extra oefenmateriaal functies:** bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
+> **📙 Extra oefenmateriaal functies:** bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
 
 > **Extra oefenmateriaal arrays en string- en math objecten**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-objects-string-array-date) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
 
