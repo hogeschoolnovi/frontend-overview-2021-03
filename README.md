@@ -36,6 +36,7 @@ _**Leerlijn Frontend 2021/03**_
     * Oefenen met CSS Grid. Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-css-grid).
     * Oefenen met pseudo-elementen en transities, bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-grid-transition-base)
   
+  <br/>
   
 > **📙 Extra oefenmateriaal Flexbox en CSS Grid** 
 > 
