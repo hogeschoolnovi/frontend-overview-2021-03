@@ -38,9 +38,7 @@ _**Leerlijn Frontend 2021/03**_
 
 
 <br/>
->
-#### Extra oefenmateriaal Flexbox en CSS Grid 
-> Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-html-css-extra-exercise-base) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/HTML%20&%20CSS/frontend-html-css-extra-exercises-uitwerkingen.zip).
+> **Extra oefenmateriaal Flexbox en CSS Grid:** bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-html-css-extra-exercise-base) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/HTML%20&%20CSS/frontend-html-css-extra-exercises-uitwerkingen.zip).
 <br/>
 
 ### Les 5 - Functionel Ontwerpen
@@ -81,9 +79,7 @@ _**Leerlijn Frontend 2021/03**_
 * **Lesopdrachten**: (_Binnenkort beschikbaar_)
 
 <br/>
->
-#### Extra oefenmateriaal functies
-> Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
+> **Extra oefenmateriaal functies:** bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
 <br/>
 
 > **Extra oefenmateriaal arrays en string- en math objecten**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-objects-string-array-date) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
