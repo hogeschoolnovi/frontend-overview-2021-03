@@ -81,8 +81,8 @@ _**Leerlijn Frontend 2021/03**_
 ### Les 3 - Functies en methoden
 * **Voorbereiding**: lees hoofdstuk 4 en 5
 * **Voorbereiding opdrachten**:
-    * Maak opdracht 4.6 op EdHub. Op GitHub vind je het [base project]() (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
-    * Maak opdracht 5.5 op EdHub. Op GitHub vind je het [base project]() (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
+    * Maak opdracht 4.7 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-first-functions) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
+    * Maak opdracht 5.6 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-methods) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
 * **Bekijken**:
     * `[JAVASCRIPT] Les 3 - Functies en methoden` (_Binnenkort beschikbaar_).
 * **Lesopdrachten**: (_Binnenkort beschikbaar_)
@@ -91,10 +91,34 @@ _**Leerlijn Frontend 2021/03**_
 <br/>
 
 > **📙 Extra oefenmateriaal functies**
-> Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
+> Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.j) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
 >
 
 <br />
+
+### Les 4 & 5 - Destructuring, packages en testen
+* **Voorbereiding**: (_Binnenkort beschikbaar_)
+* **Voorbereiding opdrachten**:
+    * (_Binnenkort beschikbaar_)
+* **Bekijken**:
+    * `[JAVASCRIPT] Les 4 & 5 - Destructuring, packages en testen` (_Binnenkort beschikbaar_).
+* **Lesopdrachten**: (_Binnenkort beschikbaar_)
+
+### Les 6 & 7 - Data manipulatie en de DOM
+* **Voorbereiding**: (_Binnenkort beschikbaar_)
+* **Voorbereiding opdrachten**:
+    * (_Binnenkort beschikbaar_)
+* **Bekijken**:
+    * `[JAVASCRIPT] Les 6 & 7 - Data manipulatie en de DOM` (_Binnenkort beschikbaar_).
+* **Lesopdrachten**: Tech It Easy opdracht. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-tech-it-easy).
+
+### Les 8 & 9 - Data requests (AJAX)
+* **Voorbereiding**: (_Binnenkort beschikbaar_)
+* **Voorbereiding opdrachten**:
+    * (_Binnenkort beschikbaar_)
+* **Bekijken**:
+    * `[JAVASCRIPT] Les 8 & 9 - Data requests (AJAX)` (_Binnenkort beschikbaar_).
+* **Lesopdrachten**: Country Information opdracht. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-country-information).
 
 
 ## Overzicht Inlevermomenten (vrijblijvend)
@@ -102,17 +126,17 @@ _**Leerlijn Frontend 2021/03**_
 * `[Peer-review] - Selectors en Flexbox opdracht (les 2)` op maandag 15 maart 23:59
 * `[Peer-review] - CSS Grid opdracht (les 3)` op maandag 22 maart 23:59
 
-* `[VERPLICHT] - Ideefase eindopdracht` op _datum_volgt_
+* `[VERPLICHT] - Ideefase eindopdracht` op 4 april 2021
 
-* `[Feedback] - JavaScript loops opdracht (les 1)` op dinsdag 6 april 23:59
-* `[Peer-review] - JavaScript functies opdracht (les 2)` op maandag 12 april 23:59
-* `[Peer-review] - JavaScript galgje opdracht (les 3)` op maandag 19 april 23:59
-* `-- Tech It Easy opdracht (les 4 + 5) -- ` geen inlevermoment
-* `[Feedback] - Country Information 1 & 2 opdracht (les 6,7,8)` op maandag 17 mei 23:59
+* `[Peer-review] - JavaScript loops opdracht (les 2)` op maandag 12 april 23:59
+* `[Feedback] - JavaScript functies opdracht (les 3)` op maandag 19 april 23:59
+* `[Peer-review] - JavaScript galgje opdracht (les 4 + 5)` op zondag 25 april 23:59
+* `-- Tech It Easy opdracht (les 6 + 7) -- ` geen inlevermoment
+* `[Feedback] - Country Information opdracht (les 8 + 9)` op maandag 17 mei 23:59
 * `[Peer-review] - React handtassen opdracht (les 1)` op dinsdag 25 mei 23:59
-* `[Peer-review] - React formulier opdracht (les 2,3)` op maandag 31 mei 23:59
+* `[Peer-review] - React formulier opdracht (les 2 + 3)` op maandag 31 mei 23:59
 * `[Peer-review] - React routing opdracht (les 4)` op maandag 7 juni 23:59
-* `[Feedback] - React Pokémon opdracht (les 5,6)` op maandag 14 juni 23:59
+* `[Feedback] - React Pokémon opdracht (les 5 + 6)` op maandag 14 juni 23:59
 * `[Peer-review] - React update opdracht (les 7)` op maandag 21 juni 23:59
-* `[Peer-review] - React context opdracht (les 8,9)` op maandag 28 juni 23:59
+* `[Peer-review] - React context opdracht (les 8 +9)` op maandag 28 juni 23:59
 * `-- Authenticatie opdracht (les 10 + 11) -- ` geen inlevermoment
