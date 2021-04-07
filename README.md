@@ -85,8 +85,7 @@ _**Leerlijn Frontend 2021/03**_
     * Maak opdracht 5.6 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-methods) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
 * **Bekijken**:
     * `[JAVASCRIPT] Les 3 - Functies en methoden` (_Binnenkort beschikbaar_).
-* **Lesopdrachten**: (_Binnenkort beschikbaar_)
-
+* **Lesopdrachten**: Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-intermediate-functions). 
 
 <br/>
 
