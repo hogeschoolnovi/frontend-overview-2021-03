@@ -90,7 +90,7 @@ _**Leerlijn Frontend 2021/03**_
 <br/>
 
 > **📙 Extra oefenmateriaal functies**
-> Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.j) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
+> Bekijk hier het [base project]() (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
 >
 
 <br />
