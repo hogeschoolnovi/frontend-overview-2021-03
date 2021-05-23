@@ -96,25 +96,27 @@ _**Leerlijn Frontend 2021/03**_
 <br />
 
 ### Les 4 & 5 - Destructuring, packages en testen
-* **Voorbereiding**: (_Binnenkort beschikbaar_)
+* **Voorbereiding**: lees hoofdstuk 6 en 7
 * **Voorbereiding opdrachten**:
-    * (_Binnenkort beschikbaar_)
+    * Maak opdracht 6.5 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-destructuring) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
+    * Maak opdracht 7.6 op EdHub. Deze [video](https://web.microsoftstream.com/video/98945f37-06d7-4d56-9c35-7e859629836a) kun je de opdracht maken.
 * **Bekijken**:
     * `[JAVASCRIPT] Les 4 & 5 - Destructuring, packages en testen` ([video](https://web.microsoftstream.com/video/8ec9dd43-fafc-4b59-83a9-5552ecbd59dc) en [slides](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/JavaScript/%5BJAVASCRIPT%5D%20Les%204&5%20-%20Destructuring,%20packages%20en%20testen.pdf)).
 * **Lesopdrachten**: (_Binnenkort beschikbaar_)
 
 ### Les 6 & 7 - Data manipulatie en de DOM
-* **Voorbereiding**: (_Binnenkort beschikbaar_)
+* **Voorbereiding**: lees hoofdstuk 8 en 9
 * **Voorbereiding opdrachten**:
-    * (_Binnenkort beschikbaar_)
+    * Maak opdracht 8.9 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-edhub-array-methods) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
+    * Maak opdracht 9.4 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/javascript-edhub-form-validation) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
 * **Bekijken**:
     * `[JAVASCRIPT] Les 6 & 7 - Data manipulatie en de DOM` ([video](https://web.microsoftstream.com/video/dd2e5aba-771b-4db7-8684-63a2b1274dbf) en [slides](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/JavaScript/%5BJAVASCRIPT%5D%20Les%206&7%20-%20Datastructuren%20en%20manipulatie%20&%20DOM%20en%20events.pdf)).
 * **Lesopdrachten**: Tech It Easy opdracht. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-tech-it-easy).
 
 ### Les 8 & 9 - Data requests (AJAX)
-* **Voorbereiding**: (_Binnenkort beschikbaar_)
+* **Voorbereiding**: lees hoofdstuk 10
 * **Voorbereiding opdrachten**:
-    * (_Binnenkort beschikbaar_)
+    * 
 * **Bekijken**:
     * `[JAVASCRIPT] Les 8 & 9 - Data requests (AJAX)` (_Binnenkort beschikbaar_).
 * **Lesopdrachten**: Country Information opdracht. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-country-information).
