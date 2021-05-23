@@ -50,7 +50,7 @@ _**Leerlijn Frontend 2021/03**_
 * **Voorbereiding**: lees hoofdstuk 12 op EdHub
 * **Voorbereiding opdrachten**: n.v.t.
 * **Bekijken**:
-    * `[HTML & CSS] Les 5 - Functioneel ontwerpen` (_Binnenkort beschikbaar_)
+    * `[HTML & CSS] Les 5 - Functioneel ontwerpen` ([video](https://web.microsoftstream.com/video/13021788-b9ee-4406-9886-7735f1f83840) en [slides](https://teams.microsoft.com/l/file/BAC6857D-203A-4495-8DF0-371A9B76052D?tenantId=4243de4c-3701-4a5d-b67a-388c5c9557a2&fileType=pdf&objectUrl=https%3A%2F%2Fnoviuniversity.sharepoint.com%2Fsites%2FFrontend202103%2FLesmateriaal%2FHTML%20%26%20CSS%2F%5BHTML%26CSS%5D%20Les%205%20-%20Functioneel%20ontwerpen.pdf&baseUrl=https%3A%2F%2Fnoviuniversity.sharepoint.com%2Fsites%2FFrontend202103&serviceName=teams&threadId=19:850091a7302341ef8f3d0d67c19870f8@thread.tacv2&groupId=1f6d57b3-7003-4def-b081-3ae9af201857))
 * **Lesopdrachten**:
     * Geen code dit keer, we denken een applicatie uit met input van de klas
 
