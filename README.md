@@ -74,7 +74,7 @@ _**Leerlijn Frontend 2021/03**_
     * Maak opdracht 3.3 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-arrays-and-objects) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
     * Maak opdracht 3.6 op EdHub (zelfde project als hierboven).
 * **Bekijken**:
-    * `[JAVASCRIPT] Les 2 - Arrays, objecten en loops` (_Binnenkort beschikbaar_).
+    * `[JAVASCRIPT] Les 2 - Arrays, objecten en loops` ([video groep 1](https://web.microsoftstream.com/video/22f5c07c-0906-411c-9df8-17547333a964), [video groep 2](https://web.microsoftstream.com/video/bf0aa048-65cc-4c54-97d3-87931fd1a0ec) en [slides] ()).
 * **Lesopdrachten**:
    * Oefenen met for-loops. Heel. veel. loops. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-loops).
 
