@@ -84,7 +84,7 @@ _**Leerlijn Frontend 2021/03**_
     * Maak opdracht 4.7 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-first-functions) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
     * Maak opdracht 5.6 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-methods) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
 * **Bekijken**:
-    * `[JAVASCRIPT] Les 3 - Functies en methoden` (_Binnenkort beschikbaar_).
+    * `[JAVASCRIPT] Les 3 - Functies en methoden` ([video](https://web.microsoftstream.com/video/3b8ab4c9-8c53-4c48-b0ce-2f46d0e748b4) en [slides](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/JavaScript/%5BJAVASCRIPT%5D%20Les%203%20-%20Functies%20en%20methodes.pdf)).
 * **Lesopdrachten**: Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-intermediate-functions). 
 
 <br/>
@@ -100,7 +100,7 @@ _**Leerlijn Frontend 2021/03**_
 * **Voorbereiding opdrachten**:
     * (_Binnenkort beschikbaar_)
 * **Bekijken**:
-    * `[JAVASCRIPT] Les 4 & 5 - Destructuring, packages en testen` (_Binnenkort beschikbaar_).
+    * `[JAVASCRIPT] Les 4 & 5 - Destructuring, packages en testen` ([video](https://web.microsoftstream.com/video/8ec9dd43-fafc-4b59-83a9-5552ecbd59dc) en [slides](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/JavaScript/%5BJAVASCRIPT%5D%20Les%204&5%20-%20Destructuring,%20packages%20en%20testen.pdf)).
 * **Lesopdrachten**: (_Binnenkort beschikbaar_)
 
 ### Les 6 & 7 - Data manipulatie en de DOM
@@ -108,7 +108,7 @@ _**Leerlijn Frontend 2021/03**_
 * **Voorbereiding opdrachten**:
     * (_Binnenkort beschikbaar_)
 * **Bekijken**:
-    * `[JAVASCRIPT] Les 6 & 7 - Data manipulatie en de DOM` (_Binnenkort beschikbaar_).
+    * `[JAVASCRIPT] Les 6 & 7 - Data manipulatie en de DOM` ([video](https://web.microsoftstream.com/video/dd2e5aba-771b-4db7-8684-63a2b1274dbf) en [slides](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/JavaScript/%5BJAVASCRIPT%5D%20Les%206&7%20-%20Datastructuren%20en%20manipulatie%20&%20DOM%20en%20events.pdf)).
 * **Lesopdrachten**: Tech It Easy opdracht. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-tech-it-easy).
 
 ### Les 8 & 9 - Data requests (AJAX)
