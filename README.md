@@ -65,7 +65,7 @@ _**Leerlijn Frontend 2021/03**_
     * Maak opdracht 2.5 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-variables-and-math-operators) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
     * Maak opdracht 2.9 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-if-else-switch-statements) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
 * **Bekijken**:
-    * `[JAVASCRIPT] Les 1 - De basics` (_Binnenkort beschikbaar_)
+    * `[JAVASCRIPT] Les 1 - De basics` ([video groep 1](https://web.microsoftstream.com/video/dabbb821-5bb5-4a8d-b154-5ff5bbf5f5a7), [video groep 2](https://web.microsoftstream.com/video/c0b529d4-df9c-4528-81f1-1918e52a15e9) en [slides]())
 * **Lesopdrachten**: (_Binnenkort beschikbaar_)
 
 ### Les 2 - Arrays, objecten en loops
