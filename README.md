@@ -121,6 +121,57 @@ _**Leerlijn Frontend 2021/03**_
     * `[JAVASCRIPT] Les 8 & 9 - Data requests (AJAX)` (_Binnenkort beschikbaar_).
 * **Lesopdrachten**: Country Information opdracht. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-country-information).
 
+<br />
+
+## React
+
+### Les 1 - Handbags & Purses
+* **Voorbereiding**: lees hoofdstuk 1 en 2
+* **Voorbereiding opdrachten**: n.v.t.
+* **Bekijken**:
+    * `[REACT] Les 1 - Handbags & Purses` (_Binnenkort beschikbaar_)
+* **Lesopdrachten**: (_Binnenkort beschikbaar_)
+
+### Les 2 & 3 - Fruitbasket orderform
+* **Voorbereiding**: lees hoofdstuk 3 en 4
+* **Voorbereiding opdrachten**:
+    * Maakopdracht 3.9 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-react-class-vs-function-components) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
+* **Bekijken**:
+    * `[REACT] Les 2 & 3 - Fruitbasket orderform` (_Binnenkort beschikbaar_)
+* **Lesopdrachten**: (_Binnenkort beschikbaar_)
+
+### Les 4 - Privateblog
+* **Voorbereiding**: lees hoofdstuk 5
+* **Voorbereiding opdrachten**: n.v.t.
+* **Bekijken**:
+    * `[REACT] Les 5 - Privateblog` (_Binnenkort beschikbaar_)
+* **Lesopdrachten**: (_Binnenkort beschikbaar_)
+
+### Les 5 & 6 - Privateblog
+* **Voorbereiding**: lees hoofdstuk 5
+* **Voorbereiding opdrachten**: n.v.t.
+* **Bekijken**:
+    * `[REACT] Les 5 - Pokémon` (_Binnenkort beschikbaar_)
+* **Lesopdrachten**: (_Binnenkort beschikbaar_)
+
+### Les 7 & 8 - Pokémon
+* **Voorbereiding**: lees hoofdstuk 6 en 7
+* **Voorbereiding opdrachten**: n.v.t.
+* **Bekijken**:
+    * `[REACT] Les 5 - Multi language website` (_Binnenkort beschikbaar_)
+* **Lesopdrachten**: (_Binnenkort beschikbaar_)
+
+### Les 9 & 10 - Authentication
+* **Voorbereiding**: lees hoofdstuk 10
+* **Voorbereiding opdrachten**: n.v.t.
+* **Bekijken**:
+    * `[REACT] Les 10 - Authentication` (_Binnenkort beschikbaar_)
+* **Lesopdrachten**: (_Binnenkort beschikbaar_)
+
+
+
+
+
 
 ## Overzicht Inlevermomenten (vrijblijvend)
 * `[Feedback] - HTML Lasagne opdracht (les 1)` op maandag 8 maart 23:59
