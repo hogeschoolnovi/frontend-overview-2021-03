@@ -129,7 +129,7 @@ _**Leerlijn Frontend 2021/03**_
 * **Voorbereiding**: lees hoofdstuk 1 en 2
 * **Voorbereiding opdrachten**: n.v.t.
 * **Bekijken**:
-    * `[REACT] Les 1 - Handbags & Purses` (_Binnenkort beschikbaar_)
+    * `[REACT] Les 1 - Handbags & Purses` ([video]() en [slides](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/React/%5BREACT%5D%20Les%201%20-%20Componenten%20en%20properties.pdf))
 * **Lesopdrachten**: (_Binnenkort beschikbaar_)
 
 ### Les 2 & 3 - Fruitbasket orderform
