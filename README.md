@@ -102,7 +102,7 @@ _**Leerlijn Frontend 2021/03**_
     * Maak opdracht 7.6 op EdHub. Deze [video](https://web.microsoftstream.com/video/98945f37-06d7-4d56-9c35-7e859629836a) kun je de opdracht maken.
 * **Bekijken**:
     * `[JAVASCRIPT] Les 4 & 5 - Destructuring, packages en testen` ([video](https://web.microsoftstream.com/video/8ec9dd43-fafc-4b59-83a9-5552ecbd59dc) en [slides](https://noviuniversity.sharepoint.com/sites/Frontend202103/Lesmateriaal/JavaScript/%5BJAVASCRIPT%5D%20Les%204&5%20-%20Destructuring,%20packages%20en%20testen.pdf)).
-* **Lesopdrachten**: (_Binnenkort beschikbaar_)
+* **Lesopdrachten**: Galgje opdracht. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-hangman)
 
 ### Les 6 & 7 - Data manipulatie en de DOM
 * **Voorbereiding**: lees hoofdstuk 8 en 9
